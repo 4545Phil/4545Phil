@@ -13,7 +13,6 @@
 ```python
 phil = {
     "name"     : "Phil",
-    "location" : "Tashkent, Uzbekistan 🇺🇿",
     "education": "Bachelor in Cybersecurity (2nd year)",
     "focus"    : ["Web Pentesting", "CTF", "OWASP Top 10"],
     "learning" : ["Burp Suite", "Kali Linux", "AZ-900", "MySQL"],
